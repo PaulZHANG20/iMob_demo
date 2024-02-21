@@ -62,6 +62,6 @@ By clicking the train Script buttom, the example training script can be loaded f
 <img src=/images/model_training.png width=600>
 The training process is displayed at the IDE terminal:
 
-<img src=/images/training_process width=600>
+<img src=/images/training_process.png width=600>
 # Authors
 -Ying Ma and Yu Li, supervised by [Lining Zhang](https://www.ece.pku.edu.cn/info/1045/2486.htm), composed the demo version release.
