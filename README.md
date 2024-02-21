@@ -52,7 +52,17 @@ cd <installation directory>
 python Run_Imob.py
 ```
 The main interface of iMoB is displayed as follows:
-<img src=/images/bigblue4-nofiller_SLD.gif width=250>
+
+<img src=/images/main_interface.png width=600>
+After loading the example device current data(Data_sample.txt), the I-V curves will be shown:
+
+<img src=/images/data_loading.png width=600>
+By clicking the train Script buttom, the example training script can be loaded for demostration.
+
+<img src=/images/model_training.png width=600>
+The training process is displayed at the IDE terminal:
+
+<img src=/images/training_process.png width=600>
 
 # Authors
 -Ying Ma and Yu Li, supervised by [Lining Zhang](https://www.ece.pku.edu.cn/info/1045/2486.htm), composed the demo version release.
