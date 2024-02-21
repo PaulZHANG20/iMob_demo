@@ -13,7 +13,7 @@ The tool provides a modelling interface with flexible and customizable model tra
 # Publications
 - [Lining Zhang](https://www.ece.pku.edu.cn/info/1045/2486.htm), [Mansun Chan](https://ece.hkust.edu.hk/mchan),
   "**Artificial neural network design for compact modeling of generic transistors**",
-  Journal of Computational Electronics 16, 825¨C832 (2017), doi:10.1007/s10825-017-0984-9.
+  Journal of Computational Electronics 16, 825Â¨C832 (2017), doi:10.1007/s10825-017-0984-9.
 
 - Zhao Rong, Wu Dai, Ning Feng, Yuhang Yang, [Lining Zhang](https://www.ece.pku.edu.cn/info/1045/2486.htm), Zongwei Wang, Yimao Cai, and [Mansun Chan](https://ece.hkust.edu.hk/mchan),
   "**Generic Compact Modeling of Emerging Memories with Recurrent NARX Network**",
@@ -44,7 +44,7 @@ Go to the root directory and then
 ```
 pip install -r requirements.txt
 ```
-# Working flow of iMob
+# Working flow
 Before running, make sure the python dependency packages have been installed.
 Python IDE such as Pycharm is also recommended for running imob.
 ```
