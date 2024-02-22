@@ -5,9 +5,9 @@ The tool provides a modelling interface with flexible and customizable model tra
 
 - [Publications](#publications)
 - [Dependency](#dependency)
-- [How to Install Python Dependency](#how-to-install-python-dependeny)
-- [Working flows](#Working flows)
-- [Authors](#authors)
+- [How to Install Python Dependency](#How-to-install-python-dependeny)
+- [Working flows](#Working flow)
+- [Authors](#Authors List)
 
 # Publications
 - [Lining Zhang](https://www.ece.pku.edu.cn/info/1045/2486.htm), [Mansun Chan](https://ece.hkust.edu.hk/mchan),
