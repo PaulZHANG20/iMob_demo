@@ -33,7 +33,7 @@ The tool provides a modelling interface with flexible and customizable model tra
 # Dependency
 Python >= 3.7. 
 
-Other dependencies are shown in [Requirement.txt](requirement.txt) file. 
+Other dependencies are shown in [Requirements.txt](requirements.txt) file. 
 
 # How to Install Python Dependency
 Go to the root directory and then
