@@ -32,7 +32,7 @@ The tool provides a modelling interface with flexible and customizable model tra
   2023 International Symposium of Electronics Design Automation (ISEDA), Nanjing, China, 2023, pp. 423-427, doi: 10.1109/ISEDA59274.2023.10218514.
 
 # Dependency
-As shown in [Requirement.txt](Requirement.txt) file.
+As shown in [requirement.txt](Requirement.txt) file.
 
 # How to Install Python Dependency
 Go to the root directory and then
