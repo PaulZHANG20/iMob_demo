@@ -6,9 +6,8 @@ The tool provides a modelling interface with flexible and customizable model tra
 - [Publications](#publications)
 - [Dependency](#dependency)
 - [How to Install Python Dependency](#how-to-install-python-dependeny)
-- [How to Run](#how-to-run)
+- [Working flows](#Working flows)
 - [Authors](#authors)
-- [Features](#features)
 
 # Publications
 - [Lining Zhang](https://www.ece.pku.edu.cn/info/1045/2486.htm), [Mansun Chan](https://ece.hkust.edu.hk/mchan),
@@ -32,7 +31,7 @@ The tool provides a modelling interface with flexible and customizable model tra
   2023 International Symposium of Electronics Design Automation (ISEDA), Nanjing, China, 2023, pp. 423-427, doi: 10.1109/ISEDA59274.2023.10218514.
 
 # Dependency
-As shown in [requirement.txt](Requirement.txt) file.
+As shown in [Requirement.txt](requirement.txt) file.
 
 # How to Install Python Dependency
 Go to the root directory and then
@@ -45,7 +44,7 @@ Before running, make sure the python dependency packages have been installed.
 Python IDE such as Pycharm is also recommended for running imob.
 ```
 cd <installation directory>
-python Run_Imob.py
+python Run_imob.py
 ```
 The main interface of iMoB is displayed as follows:
 
