@@ -32,11 +32,7 @@ The tool provides a modelling interface with flexible and customizable model tra
   2023 International Symposium of Electronics Design Automation (ISEDA), Nanjing, China, 2023, pp. 423-427, doi: 10.1109/ISEDA59274.2023.10218514.
 
 # Dependency
-- [Python](https://www.python.org/) >= 3.5
-- [Pytorch](https://pytorch.org/) >= 1.6
-- [Numpy](https://numpy.org/) >= TBD
-- [Matplotlib](https://matplotlib.org/) >= TBD
-- [Pandas](https://pandas.pydata.org/) >= TBD
+As shown in [Requirement.txt](Requirement.txt) file.
 
 # How to Install Python Dependency
 Go to the root directory and then
