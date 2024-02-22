@@ -31,7 +31,7 @@ The tool provides a modelling interface with flexible and customizable model tra
   2023 International Symposium of Electronics Design Automation (ISEDA), Nanjing, China, 2023, pp. 423-427, doi: 10.1109/ISEDA59274.2023.10218514.
 
 # Dependency
-As shown in [Requirement.txt](requirement.txt) file.
+As shown in [Requirement.txt](requirement.txt) file. 
 
 # How to Install Python Dependency
 Go to the root directory and then
@@ -62,7 +62,7 @@ The training process is displayed at the IDE terminal:
 # Authors List
 ## Demo version
 ### Member:
-- Ying Ma (Insitute of EDA, Peking  University) 
+- Ying Ma (Institute of EDA, Peking  University) 
 - Yu Li (Peking University, Shenzhen)
 ### supervisor
-- [Lining Zhang](https://www.ece.pku.edu.cn/info/1045/2486.htm) (Peking University, Shenzhen), composed the demo version release.
+- [Lining Zhang](https://www.ece.pku.edu.cn/info/1045/2486.htm) (Peking University, Shenzhen)
