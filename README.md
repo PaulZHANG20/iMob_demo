@@ -6,7 +6,7 @@ The tool provides a modelling interface with flexible and customizable model tra
 - [Publications](#publications)
 - [Dependency](#dependency)
 - [How to Install Python Dependency](#How-to-install-python-dependeny)
-- [Working flows](#Working-flow)
+- [Working Flows](#Working-Flow)
 - [Authors](#Authors-List)
 
 # Publications
@@ -39,7 +39,7 @@ Go to the root directory and then
 ```
 pip install -r requirements.txt
 ```
-# Working flow
+# Working Flow
 Before running, make sure the python dependency packages have been installed.
 Python IDE such as Pycharm is also recommended for running imob.
 ```
