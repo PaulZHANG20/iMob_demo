@@ -46,7 +46,7 @@ Before running, make sure the python dependency packages have been installed.
 Python IDE such as Pycharm is also recommended for running imob.
 ```
 cd <installation directory>
-python Run_imob.py
+python Run_iMoB.py
 ```
 The main interface of iMoB is displayed as follows:
 
