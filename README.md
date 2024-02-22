@@ -64,7 +64,8 @@ The training process is displayed at the IDE terminal:
 
 <img src=/images/training_process.png width=600>
 
-# Authors
+# Authors List
+## Demo version
 ### Member:
 - Ying Ma (Insitute of EDA, Peking  University) 
 - Yu Li (Peking University, Shenzhen)
