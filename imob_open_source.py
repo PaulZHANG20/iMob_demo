@@ -33,7 +33,7 @@ else:
     application_path = os.path.dirname(os.path.abspath(__file__))  # This is the directory of the script
 
 # Build the path to the background.png file
-background_path = os.path.join(application_path, '/images/background.png')
+background_path = os.path.join(application_path, './images/background.png')
 
 # Load and scale the image
 original_image = Image.open(background_path)
