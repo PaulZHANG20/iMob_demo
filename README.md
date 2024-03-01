@@ -30,6 +30,9 @@ The tool provides a modelling interface with flexible and customizable model tra
   "**Benchmarking Artificial Neural Network Models for Design Technology Co-optimization**",
   2023 International Symposium of Electronics Design Automation (ISEDA), Nanjing, China, 2023, pp. 423-427, doi: 10.1109/ISEDA59274.2023.10218514.
 
+- Zhe Zhang, Runsheng Wang, Cheng chen, Qianqian Huang, Yangyuan Wang, Cheng Hu, Dehuang Wu, Joddy Wang, and Ru Huang,
+  "**New-Generation Design-Technology Co-Optimization(DTCO): Mechaine-Learning Assisted Modeling Framework**",
+  2019 Silicon Nanoelectronics Workshop (SNW), Kyoto, Japan, 2019, pp. 1-2, doi: 10.23919/SNW.2019.8782897.
 # Dependency
 Python >= 3.7. 
 
